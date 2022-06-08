@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fmu/66kA/unD62N6KvdzdARCpCmMNyuYxW4La0JN5gE/LCu4Cfn3084orRUZj0ygRPWA04vHw7qSzFsyYP9SLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zynls\\Masaüstü\\DotNetProject\\CurrencyWebSite\\CurrencyWebSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zynls\\.nuget\\packages\\jquery\\3.6.0\\jquery.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
